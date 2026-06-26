@@ -1,1 +1,9 @@
-Montiel Ross Oscar 2026 An Effect-Algebraic Framework for Mediative Truth–Falsity Semantics in Quantum Evidence Models
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Montiel Ross
+  given-names: Oscar Humberto
+orcid: https://orcid.org/0000-0002-7060-9204.
+title:oross/qmfl-diagonal-metadata-illustration: Zenodo archival release
+version: 1.0.2
+date-released: 2026-06-26
